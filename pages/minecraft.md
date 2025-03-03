@@ -10,9 +10,9 @@
 
 **整合包：**
 
-| 名称              | 简介 | 游戏版本 | 链接                                                                                                                        |
-|-----------------| --- |------|---------------------------------------------------------------------------------------------------------------------------|
-| [Hyper World](/pages/minecrafts/modpacks/hyper-world/) | 基于 Big Globe 模组的水槽整合包 | 1.20.1/Fabric | [本站](/pages/minecrafts/modpacks/hyper-world/) [Github(问题反馈)](https://github.com/YELANDAOKONG/McPackHyperWorld) MC百科(暂未收录) |
+| 名称              | 简介 | 游戏版本 | 链接                                                                                                              |
+|-----------------| --- |------|-----------------------------------------------------------------------------------------------------------------|
+| [Hyper World](/pages/minecrafts/modpacks/hyper-world/) | 基于 Big Globe 模组的水槽整合包 | 1.20.1/Fabric | [本站](/pages/minecrafts/modpacks/hyper-world/) [Github(问题反馈)](https://github.com/YELANDAOKONG/McPackHyperWorld)  |
 
 ---
 
