@@ -13,7 +13,7 @@
 - ~~官方下载(暂不支持)~~~
 - [百度网盘(实时更新/提取码DKOS)](https://pan.baidu.com/s/15j0LHffRjAFRGZEI_bv16Q?pwd=DKOS) `DKOS`
 - [夸克网盘(实时更新/提取码VXj5)](https://pan.quark.cn/s/17d50295cca3) `VXj5`
-- [奶牛快传(实时更新/提取码DKOSMC)](https://cowtransfer.com/s/42dd16e2ecea4a) `DKOSMC`
+- [奶牛快传(不推荐)(实时更新/提取码DKOSMC)](https://cowtransfer.com/s/42dd16e2ecea4a) `DKOSMC`
 
 ---
 
