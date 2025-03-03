@@ -13,3 +13,4 @@ features:
   layout: false
 include:
   - head-custom.html
+  - giscus.html
