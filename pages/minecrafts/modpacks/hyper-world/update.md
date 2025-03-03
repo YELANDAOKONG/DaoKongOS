@@ -12,9 +12,14 @@
 
 ## Hyper World 整合包更新日志
 
-**V1.12.0 UPDATE：**
+### **V1.12.0 UPDATE：**
 - 新增Chipped及ChippedExpress模组
 - 正式公开发布
+
+
+### **OLDER UPDATE：**
+
+更老的更新日志不再展示；
 
 ---
 
