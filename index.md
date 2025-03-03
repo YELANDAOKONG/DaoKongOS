@@ -8,4 +8,4 @@
 
 ## Projects
 
-[Projects 列表](https://page.dkos.xyz/pages/projects/)
+[Projects 列表](/pages/projects/)
