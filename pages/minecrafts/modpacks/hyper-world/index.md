@@ -12,7 +12,7 @@
 
 ![LOGO](./assets/images/MCLOGO.png)
 
-这是一个基于Big Globe模组的"水槽包"；
+这是一个基于Big Globe模组的生存冒险向"水槽包"；
 
 ```text
 核心模组Big Globe将世界高度更改为2048，因此可以生成非常震撼的地形；
