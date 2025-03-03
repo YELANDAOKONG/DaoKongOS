@@ -1,15 +1,30 @@
-title: YELANDAOKONG
-description: Github Page (Work)
+title: "YELANDAOKONG"
+description: "Github Page (Work)"
 show_downloads: false
 ###########################################################################################
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: "pages-themes/cayman@v0.2.0"
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-sass-converter
+- "jekyll-remote-theme" # add this line to the plugins list if you already have one
+- "jekyll-sass-converter"
 sass:
-  sass_dir: assets/css
+  sass_dir: "assets/css"
 ###########################################################################################
 features:
   layout: false
-include:
-  - head-custom.html
+#include:
+#  - head-custom.html
+###########################################################################################
+github:
+  username: "YELANDAOKONG"
+avatar: "/assets/favicon.png"
+toc: true
+comments:
+  active: "giscus"
+  giscus:
+    repo: "YELANDAOKONG/DaoKongOS"
+    repo_id: "R_kgDOOCWX7g"
+    category: "Announcements"
+    category_id: "DIC_kwDOOCWX7s4CngzH"
+    mapping: "pathname"
+    theme: "preferred_color_scheme"
+    lang: "zh-CN"
