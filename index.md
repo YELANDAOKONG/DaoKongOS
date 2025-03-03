@@ -10,6 +10,10 @@
 
 [Projects 列表](/pages/projects)
 
+[Minecraft 整合包/模组/插件](/pages/minecraft)
+
+
+
 ---
 
 <script src="https://giscus.app/client.js"
