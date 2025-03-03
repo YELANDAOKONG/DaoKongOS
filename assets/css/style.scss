@@ -1,0 +1,20 @@
+@import "{{ site.theme }}";
+
+/* 消除页面两侧留白 */
+.main-content {
+    max-width: none !important;
+    padding: 20px 15px !important;
+}
+
+/* 调整页面主体容器 */
+.page-header,
+.main-content {
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* 调整代码块宽度 */
+.highlight {
+    max-width: 90%;
+    margin: 0 auto;
+}
