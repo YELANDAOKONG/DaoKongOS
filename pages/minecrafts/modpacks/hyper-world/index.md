@@ -10,7 +10,7 @@
 
 ## Hyper World 整合包
 
-这是一个基于Big Globe模组的水槽包；
+这是一个基于Big Globe模组的"水槽包"；
 
 ```text
 核心模组Big Globe将世界高度更改为2048，因此可以生成非常震撼的地形；
@@ -35,11 +35,15 @@
 
 [更新日志](./update)
 
+[WIKI](./wiki)
+
 [问题反馈(Github)](https://github.com/YELANDAOKONG/McPackHyperWorld/)
 
 ~~更多内容请前往MC百科获取（还没提交收录~~
 
 ### 温馨提示&推荐配置
+
+客户端默认禁用DH的LOD生成及渲染，如有需要可以手动开启(**请注意内存使用率**)；
 
 #### 服务器
 1. 如果是面板服开服的话，建议服务器**使用4个及以上的CPU核心**以及**8GB及以上**的内存
@@ -92,6 +96,16 @@
 ### Q&A
 
 暂无
+
+### 预览图
+
+![MC-001.PNG](./assets/images/MC001.png)
+
+![MC-002.PNG](./assets/images/MC002.png)
+
+![MC-003.PNG](./assets/images/MC003.png)
+
+![MC-004.PNG](./assets/images/MC004.png)
 
 ---
 
