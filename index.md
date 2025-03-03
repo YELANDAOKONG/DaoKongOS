@@ -8,4 +8,4 @@
 
 ## Projects
 
-[Projects 列表](/pages/projects/)
+[Projects 列表](/pages/projects)
