@@ -2,7 +2,7 @@
  
 # Pages
 
-[..](/)
+[(Home)](/)
 
 ## Projects
 
