@@ -6,6 +6,8 @@
 
 [(Minecraft)](/pages/minecraft)
 
+[(..)](./../)
+
 ---
 
 ## 下载 Hyper World 整合包

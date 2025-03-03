@@ -6,6 +6,8 @@
 
 [(Minecraft)](/pages/minecraft)
 
+[(..)](./../)
+
 ---
 
 ## Hyper World 整合包更新日志
