@@ -6,7 +6,7 @@
 
 [(Minecraft)](/pages/minecraft)
 
-[(..)](./../)
+[(..)](./../hyper-world)
 
 ---
 
