@@ -10,6 +10,8 @@
 
 ## Hyper World 整合包
 
+![LOGO](./assets/images/MCLOGO.png)
+
 这是一个基于Big Globe模组的"水槽包"；
 
 ```text
