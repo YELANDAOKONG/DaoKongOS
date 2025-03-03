@@ -13,18 +13,19 @@ features:
   layout: false
 #include:
 #  - head-custom.html
+avatar: "/assets/favicon.png"
+toc: true
 ###########################################################################################
 github:
   username: "YELANDAOKONG"
-avatar: "/assets/favicon.png"
-toc: true
-comments:
-  active: "giscus"
-  giscus:
-    repo: "YELANDAOKONG/DaoKongOS"
-    repo_id: "R_kgDOOCWX7g"
-    category: "Announcements"
-    category_id: "DIC_kwDOOCWX7s4CngzH"
-    mapping: "pathname"
-    theme: "preferred_color_scheme"
-    lang: "zh-CN"
+###########################################################################################
+#comments:
+#  active: "giscus"
+#  giscus:
+#    repo: "YELANDAOKONG/DaoKongOS"
+#    repo_id: "R_kgDOOCWX7g"
+#    category: "Announcements"
+#    category_id: "DIC_kwDOOCWX7s4CngzH"
+#    mapping: "pathname"
+#    theme: "preferred_color_scheme"
+#    lang: "zh-CN"
