@@ -41,7 +41,7 @@
 
 [问题反馈(Github)](https://github.com/YELANDAOKONG/McPackHyperWorld/)
 
-~~更多内容请前往MC百科获取（还没提交收录~~
+~~更多内容请前往MC百科获取~~（就在本网站获取）
 
 ### 温馨提示&推荐配置
 
