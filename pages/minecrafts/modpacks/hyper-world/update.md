@@ -12,6 +12,10 @@
 
 ## Hyper World 整合包更新日志
 
+### **V1.12.0 & UI UPDATE：**
+- 主界面及UI优化
+- (当前版本还没有制作任务线)
+
 ### **V1.12.0 UPDATE：**
 - 新增Chipped及ChippedExpress模组
 - 正式公开发布
