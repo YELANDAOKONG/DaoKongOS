@@ -39,6 +39,8 @@
 
 [WIKI](./wiki)
 
+[疑难杂症](./questions)
+
 [问题反馈(Github)](https://github.com/YELANDAOKONG/McPackHyperWorld/)
 
 ~~更多内容请前往MC百科获取（还没提交收录~~
