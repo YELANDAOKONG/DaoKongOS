@@ -15,6 +15,7 @@
 - ~~官方下载(暂不支持)~~~
 - [百度网盘(实时更新/提取码DKOS)](https://pan.baidu.com/s/15j0LHffRjAFRGZEI_bv16Q?pwd=DKOS) `DKOS`
 - [夸克网盘(实时更新/提取码VXj5)](https://pan.quark.cn/s/17d50295cca3) `VXj5`
+- [移动云盘(实时更新/提取码q4ot)](https://caiyun.139.com/m/i?2jQXiV4sQL4zc) `q4ot`
 - [奶牛快传(不推荐)(实时更新/提取码DKOSMC)](https://cowtransfer.com/s/42dd16e2ecea4a) `DKOSMC`
 
 **注：奶牛快传平台无法独立下载文件。**
