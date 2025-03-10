@@ -79,6 +79,7 @@
 （整合包本身不包含，按需手动添加）
 
 - [Yes Steve Model](https://www.mcmod.cn/class/8616.html)
+- [First-person Model](https://www.mcmod.cn/class/8616.html)
 
 #### 已知问题
 
