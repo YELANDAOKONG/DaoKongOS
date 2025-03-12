@@ -81,6 +81,13 @@
 - [Yes Steve Model](https://www.mcmod.cn/class/8616.html)
 - [First-person Model](https://www.mcmod.cn/class/8616.html)
 
+#### 未经测试
+
+（加入后可以进入游戏但功能与兼容性未经测试、不提供兼容性支持）
+
+- [ViveCraft](https://www.mcmod.cn/class/1119.html)
+- [ViveCraft Compat](https://www.mcmod.cn/class/11689.html)
+
 #### 已知问题
 
 - **机械动力的液态经验相关物品在思索时会引发游戏客户端崩溃，请注意。**
