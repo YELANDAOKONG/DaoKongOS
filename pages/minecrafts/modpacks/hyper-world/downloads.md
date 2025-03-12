@@ -43,7 +43,7 @@ A: 普通玩家下载`[MC] Hyper World Release UI (vX.XX.X).zip`文件，之后�
 
 ### 当前版本
 
-> V1.12.0 & UI
+> V1.12.2 & UI
 
 没有直链，请从网盘下载；如果链接失效请到Github发起Issue反馈。
 
