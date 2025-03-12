@@ -12,6 +12,13 @@
 
 ## Hyper World 整合包更新日志
 
+### **V1.12.3 & UI UPDATE：**
+> 2025/03/12
+
+- 新增Carry On模组
+- 新增First-person Model模组（默认禁用）
+- (当前版本还没有制作任务线)
+
 ### **V1.12.2 & UI UPDATE：**
 > 2025/03/12
 
