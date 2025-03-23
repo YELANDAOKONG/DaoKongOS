@@ -12,6 +12,8 @@
 
 ![LOGO](./assets/images/MCLOGO.png)
 
+> 别人的世界？我们的世界————
+
 这是一个基于Big Globe模组的生存冒险向"水槽包"；
 
 ```text
