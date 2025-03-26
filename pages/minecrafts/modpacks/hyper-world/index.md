@@ -8,7 +8,7 @@
 
 ---
 
-## Hyper World 整合包
+# Hyper World 整合包
 
 ![LOGO](./assets/images/MCLOGO.png)
 
@@ -32,7 +32,7 @@
 > 
 > 如果发现网盘链接失效请到Github发起Issues。
 
-### 目录
+## 目录
 
 [下载](./downloads)
 
