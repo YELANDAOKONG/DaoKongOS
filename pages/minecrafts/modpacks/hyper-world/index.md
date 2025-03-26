@@ -8,7 +8,7 @@
 
 ---
 
-## Hyper World 整合包
+# Hyper World 整合包
 
 ![LOGO](./assets/images/MCLOGO.png)
 
