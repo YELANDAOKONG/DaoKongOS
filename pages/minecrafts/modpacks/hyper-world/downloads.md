@@ -69,3 +69,13 @@ A: 普通玩家下载`[MC] Hyper World Release UI (vX.XX.X).zip`文件，之后�
         crossorigin="anonymous"
         async>
 </script>
+
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?e467154e934c2dc14879fbb2df219013";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
