@@ -46,7 +46,7 @@
 
 > 
 > ### 其他链接
-> ~~MC百科~~ (仍在审核)
+> [MC百科](https://www.mcmod.cn/modpack/1076.html)
 >
 > [红石中继站](https://www.mczwlt.net/resource/ze9gi29s)
 > 
