@@ -52,7 +52,7 @@
 > 
 > [MineBBS 发布帖](https://www.minebbs.com/resources/1-20-1-fabric-gao-you-hua-sheng-cun-de-xing-yao-yuan-de-ping-xian-you-fu-wu-duan-hyper-world.10970/)
 >
-> ~~苦力怕论坛 发布帖~~ (审核中)
+> [苦力怕论坛 发布帖](https://klpbbs.com/thread-159648-1-1.html)
 >
 
 
