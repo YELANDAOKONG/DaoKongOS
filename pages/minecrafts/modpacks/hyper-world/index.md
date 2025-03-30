@@ -40,6 +40,8 @@
 
 [WIKI](./wiki)
 
+[TODO](./todos)
+
 [疑难杂症](./questions)
 
 [问题反馈(Github)](https://github.com/YELANDAOKONG/McPackHyperWorld/)
@@ -76,7 +78,7 @@
 
 ## TODO List
 
-- [ ] 为AE2添加配方兼容（现在加了模组但是没法获得模组物品）
+请移步至 [TODO 子页面](./todos) 查看
 
 ## 已知不兼容&问题
 
