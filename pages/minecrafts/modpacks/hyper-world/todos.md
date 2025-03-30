@@ -12,8 +12,6 @@
 
 ## Hyper World 整合包 TODO 列表
 
-> **清单流程：** 收集 => 处理 => 更新 => 完成
-
 如果提交问题，请前往 [Github 仓库](https://github.com/YELANDAOKONG/McPackHyperWorld/) 发起 Issues
 
 ### 收集中清单
