@@ -10,25 +10,9 @@
 
 ---
 
-## Hyper World 整合包 TODO 列表
+## Hyper World Blogs
 
-如果需要提交问题，请前往 [Github 仓库](https://github.com/YELANDAOKONG/McPackHyperWorld/) 发起 Issues
-
-### 收集中清单
-
-- [ ] 为AE2添加配方兼容（现在加了模组但是没法获得模组物品）
-- [ ] 删除会引发游戏崩溃的元素
-- [ ] 增加农作物地形生成兼容
-- [ ] 添加更多种类的树木
-- [ ] 兼容/更新新版Big Globe
-
-### 下版本更新
-
-- 暂无
-
-### 已完成处理
-
-- 暂无
+> 没有内容...
 
 ---
 

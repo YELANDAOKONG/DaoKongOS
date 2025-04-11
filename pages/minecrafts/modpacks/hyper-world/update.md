@@ -12,6 +12,22 @@
 
 ## Hyper World 整合包更新日志
 
+### **V1.12.5 & UI UPDATE：**
+> 2025/04/11
+
+- 将遥远地平线模组更新到最新版本 (2.3.2-b)
+- 新增Universal Ores模组及其生成兼容
+- 新增Towns and Towers模组及其生成兼容
+- 新增When Dungeons Arise模组及其生成兼容
+- 新增When Dungeons Arise Seven Sea模组
+- 新增Unwrecked Ships模组及其生成兼容
+- 新增Antique Trading Ship模组及其生成兼容
+- 新增Create Structures模组及其生成兼容
+- 新增Create Structures Arise模组
+- (当前版本还没有制作任务线)
+
+由于 Big Globe 模组 v1.12.0 版本改动大且不兼容任何已有数据包/兼容性模组，因此本版本暂不更新此模组。
+
 ### **V1.12.4 & UI UPDATE：**
 > 2025/03/23
 

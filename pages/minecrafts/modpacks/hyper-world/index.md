@@ -42,6 +42,8 @@
 
 [TODO](./todos)
 
+[BLOG](./blog)
+
 [疑难杂症](./questions)
 
 [问题反馈(Github)](https://github.com/YELANDAOKONG/McPackHyperWorld/)
