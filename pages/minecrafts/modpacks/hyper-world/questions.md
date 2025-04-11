@@ -46,6 +46,12 @@ A: REI需要自己设置为拼音。
 
 ![图片](./assets/questions/images/IMG006.png)
 
+### Q: 严重渲染残影BUG？
+
+A: 在设置中将遥远地平线的渲染 ("Enable Rendering") 关闭后重新打开即可。
+
+![图片](./assets/questions/images/IMG007.png)
+
 ---
 
 <script src="https://giscus.app/client.js"
