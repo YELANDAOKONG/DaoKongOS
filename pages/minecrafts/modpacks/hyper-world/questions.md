@@ -40,6 +40,12 @@ A: 更改按键设置，把以下两项改成自己习惯且未被占用的按�
 
 > 此问题已在V1.12.2更新时修复（默认键位）。
 
+### Q: 为什么不能使用拼音搜索？
+
+A: REI需要自己设置为拼音。
+
+![图片](./assets/questions/images/IMG006.png)
+
 ---
 
 <script src="https://giscus.app/client.js"
