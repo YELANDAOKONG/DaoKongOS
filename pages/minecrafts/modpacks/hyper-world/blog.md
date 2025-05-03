@@ -12,6 +12,11 @@
 
 ## Hyper World Blogs
 
+### **PREVIEW：**
+> 2025/05/04
+
+![图片](blogs/assets/images/IMG.20250504.001.png)
+
 ### **V1.12.5 & UI UPDATE：**
 > 2025/04/11
 
