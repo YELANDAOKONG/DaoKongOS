@@ -13,6 +13,14 @@
 ## Hyper World Blogs
 
 ### **PREVIEW：**
+> 2025/05/05
+
+![图片](blogs/assets/images/IMG.20250505.001.png)
+
+作者正在尝试为整合包添加更多生成兼容并修复一些地形生成问题；
+
+后续版本可能会大改地形生成。
+
 > 2025/05/04
 
 ![图片](blogs/assets/images/IMG.20250504.001.png)
