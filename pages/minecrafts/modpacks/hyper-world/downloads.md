@@ -36,6 +36,8 @@ A: 普通玩家下载`[MC] Hyper World Release UI (vX.XX.X).zip`文件，之后�
 | [MC] Hyper World Server Release (vX.XX.X).7z   | 压缩的服务器包      | 不带任务线的服务端整合包（开服务器下载这个） |
 | [UI] Hyper World UI Upgrade Pack (vX.XX.X).zip | UI升级包        | 覆盖到游戏根目录即可更新UI或任务线     |
 
+> **提示：** `Preview` 系列版本包含大幅度地形生成修改且经常调整，***请不要在正常游玩中使用此版本，以免损坏存档***。
+
 ---
 
 ## 当前版本
