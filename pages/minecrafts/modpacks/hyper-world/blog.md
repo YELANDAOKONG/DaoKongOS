@@ -13,6 +13,14 @@
 ## Hyper World Blogs
 
 ### **PREVIEW：**
+> 2025/05/09
+
+![图片](blogs/assets/images/IMG.20250509.001.png)
+
+地形生成决策树可视化工具（AI搓的）；
+
+具体细节还得慢慢研究。
+
 > 2025/05/05
 
 ![图片](blogs/assets/images/IMG.20250505.001.png)
