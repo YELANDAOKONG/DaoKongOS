@@ -30,8 +30,8 @@
 
 **!!! 升级时请注意备份存档 !!!**
 
-由于 Big Globe v5.0.0 官方更新日志中提到 `Not backwards-compatible with existing worlds` (不兼容现有世界)，
-因此在升级存档时**务必做好存档备份** (实际测试发现仅有部分世界会出现卡安全模式界面的问题)！
+由于 Big Globe v5.0.0 官方更新日志中提到 `Not backwards-compatible with existing worlds` (不向后兼容现有世界)，
+因此在升级存档时**务必做好存档备份** (实际测试发现有部分世界会出现卡安全模式界面的问题)！
 
 
 ### **V1.12.5 & UI UPDATE：**
