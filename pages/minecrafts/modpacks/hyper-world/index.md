@@ -50,6 +50,8 @@
 
 [数据包(Github)](https://github.com/YELANDAOKONG/HyperWorldBuilder/)
 
+[基础兼容数据包(Github)](https://github.com/YELANDAOKONG/HyperWorldDataPack/)
+
 > 
 > ### 其他链接
 > [MC百科](https://www.mcmod.cn/modpack/1076.html)

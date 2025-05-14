@@ -12,6 +12,28 @@
 
 ## Hyper World 整合包更新日志
 
+### **V1.13.0 & UI UPDATE：**
+> 2025/05/15
+
+![图片](assets/update/images/IMG001.png)
+
+- 将核心模组 Big Globe 更新到最新版本 (v5.0.1)
+- 完全移除失落城市及方尖碑
+- 添加 BiomesOPlenty 模组 (暂未实现任何生成兼容)
+- 移除 Big Globe - Universal Ores Compatibility 模组
+- 移除 Big Globe - Mythic Metals Compatibility 模组
+
+本次更新删除了不兼容最新版 Big Globe 模组的两个兼容性模组，并添加了全局数据包 (强制/默认启用) 以替代原模组功能；
+
+由于服务器端无法使用全局数据包模组，因此**请服务器端在创建/重新创建存档之前，复制`global_packs\required_data\`下所有文件到`world\datapacks\`下(根据实际存档路径修改)**，
+否则服务器世界将不会生成部分模组的建筑、矿石等。
+
+**!!! 升级时请注意备份存档 !!!**
+
+由于 Big Globe v5.0.0 官方更新日志中提到 `Not backwards-compatible with existing worlds` (不兼容现有世界)，
+因此在升级存档时**务必做好存档备份** (实际测试发现仅有部分世界会出现卡安全模式界面的问题)！
+
+
 ### **V1.12.5 & UI UPDATE：**
 > 2025/04/11
 
