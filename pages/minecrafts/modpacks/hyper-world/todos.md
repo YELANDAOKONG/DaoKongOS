@@ -23,6 +23,7 @@
 - [ ] 修复河流河水生成问题
 - [ ] 测试ChoiceTheorem's Overhauled Village兼容性
 - [ ] 添加Dungeon Now Loading及其兼容
+- [ ] 制作模组清单版本整合包
 
 ### 下版本更新
 
