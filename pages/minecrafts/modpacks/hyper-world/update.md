@@ -55,7 +55,7 @@
 - 野生草莓（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
 - 野生车前草（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
 - 野生荨麻（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
-- 野生二粒小麦（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 野生小麦（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
 - 黄瓜（[多元乐事](https://www.mcmod.cn/class/5609.html)）
 - 茄子（[多元乐事](https://www.mcmod.cn/class/5609.html)）
 - 玉米（[多元乐事](https://www.mcmod.cn/class/5609.html)）
