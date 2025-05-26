@@ -12,6 +12,77 @@
 
 ## Hyper World 整合包更新日志
 
+### **V1.13.1 & UI UPDATE：**
+> 2025/05/26
+
+![图片](assets/update/images/IMG002.png)
+
+- 将核心模组 Big Globe 更新到最新版本 (v5.0.2)
+- 更新小地图/世界地图模组到最新版本
+
+以下农作物现在可以在世界中自然生成：
+
+- 小麦（原版）
+- 胡萝卜（原版）
+- 土豆（原版）
+- 甜菜根（原版）
+- 南瓜（原版）
+- 西瓜（原版）
+- 卷心菜（[农夫乐事](https://www.mcmod.cn/class/2820.html)）
+- 番茄（[农夫乐事](https://www.mcmod.cn/class/2820.html)）
+- 稻米（[农夫乐事](https://www.mcmod.cn/class/2820.html)）
+- 野生卷心菜（[农夫乐事](https://www.mcmod.cn/class/2820.html)）
+- 野生洋葱（[农夫乐事](https://www.mcmod.cn/class/2820.html)）
+- 野生番茄（[农夫乐事](https://www.mcmod.cn/class/2820.html)）
+- 野生胡萝卜（[农夫乐事](https://www.mcmod.cn/class/2820.html)）
+- 野生土豆（[农夫乐事](https://www.mcmod.cn/class/2820.html)）
+- 野生甜菜根（[农夫乐事](https://www.mcmod.cn/class/2820.html)）
+- 野生稻米（[农夫乐事](https://www.mcmod.cn/class/2820.html)）
+- 番茄（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 生菜（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 燕麦（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 大麦（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 玉米（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 野生玉米（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 野生大麦（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 野生燕麦（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 野生胡萝卜（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 野生甜菜根（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 野生土豆（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 野生番茄（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 野生生菜（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 野生洋葱（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 野生草莓（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 野生车前草（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 野生荨麻（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 野生二粒小麦（[沉浸农艺](https://www.mcmod.cn/class/16100.html)）
+- 黄瓜（[多元乐事](https://www.mcmod.cn/class/5609.html)）
+- 茄子（[多元乐事](https://www.mcmod.cn/class/5609.html)）
+- 玉米（[多元乐事](https://www.mcmod.cn/class/5609.html)）
+- 野生黄瓜（[多元乐事](https://www.mcmod.cn/class/5609.html)）
+- 野生玉米（[多元乐事](https://www.mcmod.cn/class/5609.html)）
+- 野生茄子（[多元乐事](https://www.mcmod.cn/class/5609.html)）
+- 芦笋（[多元乐事](https://www.mcmod.cn/class/5609.html)）
+- 辣椒（[多元乐事](https://www.mcmod.cn/class/5609.html)）
+- 红薯（[多元乐事](https://www.mcmod.cn/class/5609.html)）
+- 花生（[多元乐事](https://www.mcmod.cn/class/5609.html)）
+- 野生芦笋（[多元乐事](https://www.mcmod.cn/class/5609.html)）
+- 野生红薯（[多元乐事](https://www.mcmod.cn/class/5609.html)）
+- 野生辣椒（[多元乐事](https://www.mcmod.cn/class/5609.html)）
+- 野生花生（[多元乐事](https://www.mcmod.cn/class/5609.html)）
+- 啤酒花（[盛节精酿](https://www.mcmod.cn/class/13710.html)）
+- 亚麻（[锦致装饰](https://www.mcmod.cn/class/3555.html)）
+- 野生生姜（[Snowy Spirit](https://www.mcmod.cn/class/7511.html)）
+- 甜浆果（原版）
+- 蓝莓（[更多浆果](https://www.mcmod.cn/class/2367.html)）
+- 黄莓（[更多浆果](https://www.mcmod.cn/class/2367.html)）
+- 橙莓（[更多浆果](https://www.mcmod.cn/class/2367.html)）
+- 紫莓（[更多浆果](https://www.mcmod.cn/class/2367.html)）
+- 绿莓（[更多浆果](https://www.mcmod.cn/class/2367.html)）
+- 黑莓（[更多浆果](https://www.mcmod.cn/class/2367.html)）
+
+由于并非所有模组的农作物都做了生成兼容，因此仍然保留磨草获得野生农作物及其种子的配方。
+
 ### **V1.13.0 & UI UPDATE：**
 > 2025/05/15
 
