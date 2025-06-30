@@ -24,6 +24,8 @@
 - [ ] 测试ChoiceTheorem's Overhauled Village兼容性
 - [ ] 添加Dungeon Now Loading及其兼容
 - [ ] 制作模组清单版本整合包
+- [ ] 更新Big Globe模组
+- [ ] 添加Vertigo模组
 - [ ] *为 Croptopia 模组提供农作物生成兼容支持*
 - [ ] **V2.0.0 更新计划 (更新MC版本)**
 
